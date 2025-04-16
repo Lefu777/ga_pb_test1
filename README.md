@@ -1,7 +1,7 @@
 A github mirror (and potential place to collect improvements)
 for the devmem2 utility.
 
-![Build](https://github.com/rick-heig/devmem2/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/Lefu777/ga_pb_test1/actions/workflows/c-cpp.yml/badge.svg)
 
 Originally written by, and hosted at, www.lartmaker.nl/lartware/ .
 
